@@ -9,3 +9,11 @@
     align-items: flex-start;
 }
 
+.flex-container div {
+    border: 1px solid red;
+    width: 200px;
+}
+
+.more-hight {
+    height: 80px;
+}
